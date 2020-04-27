@@ -334,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-@media screen and (min-width:721px){
+
 #myvideo{
     position: fixed;
     right: 0;
@@ -342,21 +342,9 @@ h1, h2, h3, h4, h5, h6 {
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
+
 }
-}
-@media screen and (max-width:720px)
-{
-    #hero {
-  width: 100%;
-  height: calc(100vh - 72px);
-  background: url("../img/tenor.gif") center center;
-  background-size: cover;
-  position: relative;
-  margin-top: 72px;
-  padding: 0;
-}
-    
-}
+
 
 
 
