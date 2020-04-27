@@ -349,7 +349,7 @@ h1, h2, h3, h4, h5, h6 {
     #hero {
   width: 100%;
   height: calc(100vh - 72px);
-  background: url("../img/tenor.gif") center center;
+  background: url("../img/endless-ocean-gif.gif") center center;
   background-size: cover;
   position: relative;
   margin-top: 72px;
